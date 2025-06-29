@@ -36,7 +36,7 @@
 ## 讨论区
 方寸之地供[讨论交流](https://mkta.site/community/)
 # 限制
-目前服务器资源有限，内地访问速度可能欠佳
+目前服务器资源有限，访问速度及稳定性可能欠佳
 # 联系
 如有任何疑问或需要进一步了解的信息以及交流合作意向，欢迎联系wx  
 <img src="https://mkta.site/wp-content/uploads/2025/06/wxqr.jpg" alt="wx" width="150" height="150"/>
