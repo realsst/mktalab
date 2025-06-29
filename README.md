@@ -30,6 +30,8 @@
 目标为全市场常规分析**秒级**响应
 ## 模板
 [选股分析公式模板](https://mkta.site/stockformula/)供参考可立即运行示例(需先注册用户)
+## 示例
+<img src="https://mkta.site/wp-content/uploads/2025/06/lbtt_sample.png" alt="sample" width="1109" height="488">
 ## 讨论区
 方寸之地供[讨论交流](https://mkta.site/community/)
 # 限制
