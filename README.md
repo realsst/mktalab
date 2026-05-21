@@ -32,7 +32,7 @@
 ## 模板
 [选股分析公式模板](https://cms.mkta.top/stockformula/)供参考可立即运行示例(需先注册用户)
 ## 示例
-![sample](https://cms.mkta.top/wp-content/uploads/2025/06/lbtt_sample.png)
+![sample](https://cms.mkta.top/wp-content/uploads/2025/06/lbtt_sample-e1779366339360.png)
 ## 讨论区
 方寸之地供[讨论交流](https://cms.mkta.top/community/)
 # 限制
